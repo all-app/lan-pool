@@ -5,7 +5,8 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZytyVlFNNk5uWko2OURpMmtXbmVxdGROR3RHTjVTOUs4UFBoZDlubW9wbnpWWDB2SVJ3dlBpdWJEeUtLVnhwZUpIVkhOeUJOUG9GUUdISjhrdWUvRUVQR0dNT2hHblF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzUzMzAyCWZpbGU6bGFuLXBvb2xfMC4xLjBfeDY0LXNldHVwLmV4ZQpMODhEOHNORjZvQ0t3eE40VHJzV1k1eUpjS29ya00rKzJETGl0RzMrS0ZiUDluRFBwc0s5YWdQOVNzaEkydTNVd0Q0Uk4yeTFMSjAyM1dkU0JlbEZBZz09Cg==",
-      "url": "https://github.com/all-app/lan-pool/releases/download/0.1.1/lan-pool_0.1.1_x64-setup.zip"
+      "url": "https://github.com/all-app/lan-pool/releases/download/0.1.1/lan-pool_0.1.1_x64-setup.exe"
     }
   }
+
 }
