@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1",
-  "notes": "修复了一些 bug",
+  "version": "0.1.0",
+  "notes": "",
   "pub_date": "2026-01-14T01:25:05Z",
   "platforms": {
     "windows-x86_64": {
@@ -10,4 +10,5 @@
   }
 
 }
+
 
