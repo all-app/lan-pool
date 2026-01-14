@@ -4,9 +4,10 @@
   "pub_date": "2026-01-14T01:25:05Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZytyVlFNNk5uWko2OURpMmtXbmVxdGROR3RHTjVTOUs4UFBoZDlubW9wbnpWWDB2SVJ3dlBpdWJEeUtLVnhwZUpIVkhOeUJOUG9GUUdISjhrdWUvRUVQR0dNT2hHblF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzUzMzAyCWZpbGU6bGFuLXBvb2xfMC4xLjBfeDY0LXNldHVwLmV4ZQpMODhEOHNORjZvQ0t3eE40VHJzV1k1eUpjS29ya00rKzJETGl0RzMrS0ZiUDluRFBwc0s5YWdQOVNzaEkydTNVd0Q0Uk4yeTFMSjAyM1dkU0JlbEZBZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZytyVlFNNk5uWkFvRmN6ekI1dHJzK1d3d25oUU1NRk9pUmMxRTRweDc1R2RNSGh5MHlGNjFYSHBYcGEyc21mMmUzdHhnQk44aG1IVkMrZlZnNGFjeFVjb20rbVltbEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzUzNTAxCWZpbGU6bGFuLXBvb2xfMC4xLjFfeDY0LXNldHVwLmV4ZQpwVlhVZFBLQlFuT2JUR0h2NTFoVnFLcU5uVTgvam4vVzFqOWlaWXRoVGNZM1N1c3VzSXp6U3VReWJHNno4aUZsQlcxU0RlUVhIRk8xbjJaUUwyTHhBdz09Cg==",
       "url": "https://github.com/all-app/lan-pool/releases/download/0.1.1/lan-pool_0.1.1_x64-setup.exe"
     }
   }
 
 }
+
