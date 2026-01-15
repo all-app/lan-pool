@@ -2,12 +2,13 @@
 
 # LAN-POOL
 
-<img width="752" height="464" alt="lan-pool" src="https://github.com/user-attachments/assets/40323e00-5fc0-4ed2-ae43-5380679fb7fb" />
-
+<img width="752"  alt="lan-pool" src="https://github.com/user-attachments/assets/40323e00-5fc0-4ed2-ae43-5380679fb7fb" />
 
 ## Introduction
 
 LAN-POOL makes local network file sharing simpler, faster, and more stable.
+
+Multi-language support: Chinese, English, Japanese, Korean, French, German.
 
 ## Download
 
